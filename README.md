@@ -3,7 +3,7 @@
 
 <h1><em>Obisidian Paw</em></h1>
 <p>
-  <br><h2>This web- and app-based tool allows users to keep track of game processes.</h2><br>
+  <h2>This web- and app-based tool allows users to keep track of game processes.</h2><br>
 ✨Where and how to come back to resources, create your own glossary, bestiary and more.<br>
 ✨Record and keep track of your progress while you play.<br>
 ✨Connect and share notes with your friends.</p><br>
